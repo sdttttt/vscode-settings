@@ -1,0 +1,17 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "ctrl+shift+j",
+        "command": "windows-terminal.openWithProfile"
+	},
+	{
+		"key": "ctrl+shift+oem_period",
+		"command": "editor.action.triggerSuggest",
+		"when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
+	},
+	{
+		"key": "ctrl+space",
+		"command": "-editor.action.triggerSuggest",
+		"when": "editorHasCompletionItemProvider && textInputFocus && !editorReadonly"
+	}
+]

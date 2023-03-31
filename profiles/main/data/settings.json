@@ -1,0 +1,249 @@
+{
+    "git.autofetch": true,
+    "go.formatTool": "goimports",
+    "editor.fontLigatures": true,
+    "git.confirmSync": false,
+    "editor.fontFamily": "Monaco,  SF Mono,Fira Code Regular, Consolas,Menlo,  Lilex,Consolas ligaturized v3, Ubuntu Mono, Cascadia Code PL",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "go.useLanguageServer": true,
+    "workbench.iconTheme": "vscode-icons",
+    "todo-tree.tree.showScanModeButton": false,
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "eslint.migration.2_x": "off",
+    "editor.detectIndentation": false,
+    "[rust]": {
+        "editor.defaultFormatter": "rust-lang.rust-analyzer"
+    },
+    "editor.fontWeight": "450",
+    "editor.minimap.enabled": true,
+    "editor.renderWhitespace": "all",
+    "editor.lineHeight": 25,
+    "[typescript]": {
+        "editor.defaultFormatter": "Vue.volar"
+    },
+    "prettier.packageManager": "yarn",
+    "prettier.useTabs": true,
+    "prettier.withNodeModules": true,
+    "editor.comments.insertSpace": false,
+    "prettier.tabWidth": 4,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": true,
+        "suppressGitMissingWarning": true
+    },
+    "tabnine.experimentalAutoImports": true,
+    "debug.console.fontFamily": "Consolas, Ubuntu Mono",
+    "projectManager.git.baseFolders": [
+        "D:\\GitRepository",
+        "D:\\work",
+        "E:\\gitrepo"
+    ],
+    "bracket-pair-colorizer-2.colors": [
+        "Tomato",
+        "Orchid",
+        "LightSkyBlue",
+        "#00CC00",
+        "HotPink"
+    ],
+    "codemetrics.basics.ComplexityLevelLowDescription": "🎉",
+    "codemetrics.basics.ComplexityLevelHighDescription": "🥺",
+    "codemetrics.basics.ComplexityLevelExtremeDescription": "💔",
+    "codemetrics.basics.ComplexityLevelNormalDescription": "🐶",
+    "codemetrics.basics.ComplexityTemplate": "{1}Complexity := {0}",
+    "highlightLine.borderColor": "#00FFBF",
+    "highlightLine.borderStyle": "dashed",
+    "highlightLine.borderWidth": "1px",
+    "codemetrics.basics.CodeLensHiddenUnder": 1,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "cSpell.userWords": [
+        "addit",
+        "axios",
+        "echarts",
+        "paas",
+        "sdttttt",
+        "zhouch"
+    ],
+    "cSpell.enableFiletypes": [
+        "vue"
+    ],
+    "diffEditor.codeLens": true,
+    "javascript.referencesCodeLens.enabled": true,
+    "javascript.referencesCodeLens.showOnAllFunctions": true,
+    "typescript.implementationsCodeLens.enabled": true,
+    "typescript.referencesCodeLens.showOnAllFunctions": true,
+    "typescript.referencesCodeLens.enabled": true,
+    "search.followSymlinks": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDelete": false,
+    "terminal.integrated.fontFamily": "FiraCode NF, Cascadia Code PL, SF Mono, Monaco, Consolas, Consolas, Ubuntu Mono",
+    "remote.SSH.remotePlatform": {
+        "118.25.6.84": "linux",
+        "39.104.91.92": "linux",
+        "192.168.0.107": "linux",
+        "192.168.3.102": "linux",
+        "192.168.3.126": "linux",
+        "192.168.3.161": "linux",
+        "192.168.3.153": "linux",
+        "192.168.3.175": "linux"
+    },
+    "workbench.editor.decorations.badges": true,
+    "workbench.editor.decorations.colors": true,
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "terminal.integrated.rendererType": "dom",
+    "vscode_vibrancy.theme": "Default Dark",
+    "vscode_vibrancy.opacity": 0.8,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "go.toolsManagement.autoUpdate": true,
+    "githubIssues.queries": [
+        {
+            "label": "My Issues",
+            "query": "default"
+        },
+        {
+            "label": "Created Issues",
+            "query": "author:${user} state:open repo:${owner}/${repository} sort:created-desc"
+        }
+    ],
+    "vsicons.dontShowNewVersionMessage": true,
+    "go.lintTool": "golangci-lint",
+    "workbench.colorCustomizations": {
+        "terminal.background": "#090300",
+        "terminal.foreground": "#A5A2A2",
+        "terminalCursor.background": "#A5A2A2",
+        "terminalCursor.foreground": "#A5A2A2",
+        "terminal.ansiBlack": "#090300",
+        "terminal.ansiBlue": "#01A0E4",
+        "terminal.ansiBrightBlack": "#5C5855",
+        "terminal.ansiBrightBlue": "#01A0E4",
+        "terminal.ansiBrightCyan": "#B5E4F4",
+        "terminal.ansiBrightGreen": "#01A252",
+        "terminal.ansiBrightMagenta": "#A16A94",
+        "terminal.ansiBrightRed": "#DB2D20",
+        "terminal.ansiBrightWhite": "#F7F7F7",
+        "terminal.ansiBrightYellow": "#FDED02",
+        "terminal.ansiCyan": "#B5E4F4",
+        "terminal.ansiGreen": "#01A252",
+        "terminal.ansiMagenta": "#A16A94",
+        "terminal.ansiRed": "#DB2D20",
+        "terminal.ansiWhite": "#A5A2A2",
+        "terminal.ansiYellow": "#FDED02",
+        "editor.lineHighlightBackground": "#1073cf2d",
+        "editor.lineHighlightBorder": "#9fced11f"
+    },
+    "terminalAllInOne.terminalTheme": "3024",
+    "window.menuBarVisibility": "toggle",
+    "typescript.locale": "zh-CN",
+    "workbench.activityBar.visible": false,
+    "workbench.editor.showTabs": false,
+    "background.style": {
+        "content": "''",
+        "pointer-events": "none",
+        "position": "absolute", //图片位置
+        "width": "100%",
+        "height": "100%",
+        "z-index": "99999",
+        "background.repeat": "no-repeat",
+        "background-size": "25%,25%", //图片大小
+        "opacity": 0.2 //透明度
+    },
+    "background.customImages": [
+        "C:\\Users\\Shiina\\Downloads\\pexels-photo-2448749.jpeg"
+    ],
+    "errorLens.fontWeight": "500",
+    "deno.path": "D:\\Deno\\deno.exe",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "godot_tools.editor_path": "/usr/local/Caskroom/godot-mono/3.3.1/Godot_mono.app/Contents/MacOS/Godot",
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": true,
+        "markdown": false,
+        "rust": true
+    },
+    "git.ignoreLegacyWarning": true,
+    "editor.wordWrap": "wordWrapColumn",
+    "diffEditor.wordWrap": "off",
+    "editor.guides.indentation": false,
+    "errorLens.gutterIconsEnabled": true,
+    "javascript.inlayHints.parameterNames.enabled": "all",
+    "files.insertFinalNewline": true,
+    "editor.guides.bracketPairs": false,
+    "rust-client.engine": "rust-analyzer",
+    "liveshare.audio.startCallOnShare": true,
+    "dart.openDevTools": "flutter",
+    "trunk.trunkGrayOutNonBlockingIssues": false,
+    "editor.linkedEditing": true,
+    "terminal.integrated.gpuAcceleration": "on",
+    "editor.fontSize": 12,
+    "extensions.autoUpdate": "onlyEnabledExtensions",
+    "codestream.serverUrl": "https://api.codestream.com",
+    "codestream.email": "Kaltsit@111.com",
+    "editor.formatOnPaste": false,
+    "editor.formatOnType": false,
+    "workbench.startupEditor": "none",
+    "window.experimental.commandCenter": true,
+    "files.exclude": {
+        "**/.trunk/*out": true
+    },
+    "files.watcherExclude": {
+        "**/.trunk/*out": true
+    },
+    "window.commandCenter": true,
+    "terminal.integrated.shellIntegration.enabled": true,
+    "security.workspace.trust.untrustedFiles": "newWindow",
+    "http.proxy": "http://127.0.0.1:7890",
+    "explorer.confirmDragAndDrop": false,
+    "workbench.colorTheme": "GitHub Dark",
+    "[go]": {
+        "editor.defaultFormatter": "golang.go"
+    },
+    "[toml]": {
+        "editor.defaultFormatter": "trunk.io"
+    },
+    "rapidapi.terminalLink.enabled": false,
+    "rust-analyzer.debug.openDebugPane": true,
+    "terminal.integrated.fontSize": 15,
+    "go.lintFlags": [
+        "--fast"
+    ],
+    "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+    "javascript.inlayHints.enumMemberValues.enabled": true,
+    "javascript.inlayHints.parameterTypes.enabled": true,
+    "javascript.inlayHints.propertyDeclarationTypes.enabled": true,
+    "javascript.inlayHints.variableTypes.enabled": true,
+    "editor.wordWrapColumn": 100,
+    "editor.experimental.asyncTokenization": true,
+    "eslint.format.enable": true,
+    "workbench.sideBar.location": "right",
+    "editor.formatOnSave": true,
+    "eslint.codeAction.disableRuleComment": {
+        "commentStyle": "block"
+    },
+    "volar.doctor.checkVueTsc": true,
+    "volar.icon.splitEditors": true,
+    "volar.vueserver.fullCompletionList": true,
+    "vitest.enable": true,
+    "rust-analyzer.diagnostics.experimental.enable": true,
+    "background.loop": true,
+    "window.zoomLevel": 1
+}
